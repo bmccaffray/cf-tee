@@ -1,0 +1,19 @@
+{
+  "name": "cf-tee",
+  "version": "1.0.0",
+  "description": "tee program that outputs txt file to command-line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bmccaffray/cf-tee.git"
+  },
+  "author": "brett mccaffray",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bmccaffray/cf-tee/issues"
+  },
+  "homepage": "https://github.com/bmccaffray/cf-tee"
+}
